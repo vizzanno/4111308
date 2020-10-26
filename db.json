@@ -21,205 +21,87 @@
       "2020"
     ],
     "valores": [
-      85626,
-      87806,
-      90128,
-      95003,
-      97701,
-      100378,
-      107285,
-      109705,
-      114250,
-      116418,
-      118964,
-      120948,
-      122865,
-      124940,
-      126742,
-      130439,
-      132400,
-      134293
+      4425,
+      4424,
+      4414,
+      4392,
+      4379,
+      4367,
+      3701,
+      3621,
+      3517,
+      3453,
+      3476,
+      3411,
+      3349,
+      3288,
+      3229,
+      2951,
+      2865,
+      2781
     ],
     "faixas": [
-      2.8,
-      2.8,
-      2.8,
-      3,
-      3,
-      3,
-      3.2,
-      3.2,
-      3.2,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.4,
-      3.6,
-      3.6,
-      3.6
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6,
+      0.6
     ]
   },
   "risco": {
     "ano": 2020,
-    "valorAnterior": 129048,
-    "faixa": 3.6,
-    "valor": 134293,
-    "valorPosterior": 142633,
-    "dif": 5245,
-    "tendencia": "descer"
+    "valorAnterior": "-",
+    "faixa": 0.6,
+    "valor": 2781,
+    "valorPosterior": 10189,
+    "dif": 7408,
+    "tendencia": "subir"
   },
-  "setores": {
-    "tipo": [
-      {
-        "distrito": "05",
-        "total": "235",
-        "cod": "0",
-        "desc": "Não especial"
+  "censos": {
+    "pop_residente": {
+      "2000": {
+        "Total": 4447,
+        "Homens": 2274,
+        "Mulheres": 2173,
+        "Urbana": 2790,
+        "Rural": 1657
       },
-      {
-        "distrito": "05",
-        "total": "54",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "08",
-        "total": "65",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "08",
-        "total": "7",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "08",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "10",
-        "total": "33",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "10",
-        "total": "8",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "10",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
-      },
-      {
-        "distrito": "12",
-        "total": "45",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "12",
-        "total": "1",
-        "cod": "4",
-        "desc": "Setores com baixo patamar domiciliar"
-      },
-      {
-        "distrito": "15",
-        "total": "49",
-        "cod": "0",
-        "desc": "Não especial"
-      },
-      {
-        "distrito": "15",
-        "total": "13",
-        "cod": "1",
-        "desc": "Aglomerado subnormal"
-      },
-      {
-        "distrito": "15",
-        "total": "1",
-        "cod": "9",
-        "desc": "Comunidade quilombola"
+      "2010": {
+        "Total": 3583,
+        "Homens": 1822,
+        "Mulheres": 1761,
+        "Urbana": 2549,
+        "Rural": 1034
       }
-    ],
-    "situacao": [
-      {
-        "distrito": "05",
-        "total": "270",
-        "cod": "1",
-        "desc": "Situação urbana - Cidade ou vila - Área urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "18",
-        "cod": "2",
-        "desc": "Situação urbana - Cidade ou vila - Área não urbanizada"
-      },
-      {
-        "distrito": "05",
-        "total": "2",
-        "cod": "8",
-        "desc": "Situação rural - Área rural"
-      },
-      {
-        "distrito": "05",
-        "total": "1",
-        "cod": "9",
-        "desc": "Massa de água"
-      }
-    ]
+    }
   },
   "repac": {
     "participantes": [
       {
-        "cod_membro": "133039",
-        "nome": "ADãO VIEIRA DOS SANTOS",
-        "cargo": "Vereador",
-        "entidade": "Câmara Municipal de Vereadores",
+        "cod_membro": "143404",
+        "nome": "ADEMIR ZILIO",
+        "cargo": "ASSESSOR DE COMUNICAÇÃO",
+        "entidade": "PREFEITURA MUNICIPAL",
         "email": [
-          "vereadorvidrinho@cmva.sc.gov.br",
+          "ademir_zilio@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99930-6867",
-            "ramal": null
-          },
-          {
-            "numero": "(48)99955-8000",
-            "ramal": null
-          }
-        ],
-        "observador": true,
-        "ativo": true
-      },
-      {
-        "cod_membro": "134551",
-        "nome": "ADRIANA PRATI",
-        "cargo": "Coordenadora",
-        "entidade": "Colegio Ethicos",
-        "email": [
-          "colegioethicos@contato.net",
-          null
-        ],
-        "telefone": [
-          {
-            "numero": "(48)3522-3424",
+            "numero": "(44)99875-3753",
             "ramal": null
           },
           {
@@ -231,17 +113,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "193033",
-        "nome": "ADRIANO DO CANTO FERNANDES",
-        "cargo": "Síndico",
-        "entidade": "Residencial Ed. Village",
+        "cod_membro": "143441",
+        "nome": "AGUINALDO VARELLA CAMARA",
+        "cargo": "SERVIDOR PÚBLICO",
+        "entidade": "PREFEITURA MUNICIPAL",
         "email": [
-          "adrianodocantofernandes@gmail.com",
+          "aguinaldocamra.ac@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)98844-8313",
+            "numero": "(44)3436-1087",
             "ramal": null
           },
           {
@@ -253,17 +135,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "193099",
-        "nome": "ALDO ANGELONI",
-        "cargo": "Síndico",
-        "entidade": "Ed. Monte Carlo",
+        "cod_membro": "143409",
+        "nome": "ALLAN THALER DOMINGOS",
+        "cargo": "AGENTE ADMINISTRATIVO/ CONTROLE INTERNO",
+        "entidade": "PREFEITURA MUNICIPAL",
         "email": [
-          "Só WhatsApp/celular",
+          "allanthalerdomingos@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99628-1919",
+            "numero": "(44)99165-1696",
             "ramal": null
           },
           {
@@ -275,17 +157,17 @@
         "ativo": true
       },
       {
-        "cod_membro": "191962",
-        "nome": "ALEXANDRA PEREIRA",
-        "cargo": "Síndica",
-        "entidade": "Ed. Darolt",
+        "cod_membro": "143437",
+        "nome": "ANGELO FERNANDES DA SILVA",
+        "cargo": "AGENTE ADMINISTRATIVO",
+        "entidade": "PREFEITURA MUNICIPAL",
         "email": [
-          "alexandrapereirasc@gmail.com",
+          "rhitaunadosul@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99949-1866",
+            "numero": "(44)99819-0046",
             "ramal": null
           },
           {
@@ -297,17 +179,61 @@
         "ativo": true
       },
       {
-        "cod_membro": "191913",
-        "nome": "ALIDEN WILLAN",
-        "cargo": "Síndico",
-        "entidade": "Ed. Oasis",
+        "cod_membro": "142631",
+        "nome": "Antonio Adriano Cervantes Pereira do Santos",
+        "cargo": "Tecnico Agrícola",
+        "entidade": "EMATER",
         "email": [
-          "alidenwr@hotmail.com",
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3436-1724",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142630",
+        "nome": "ANTONIO JOSé DO NASCIMENTO",
+        "cargo": "Secretário de Administração",
+        "entidade": "Prefeitura Municipal",
+        "email": [
+          "admitaunadosul@gmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99616-0254",
+            "numero": "(44) 99133-5604",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143399",
+        "nome": "CELSO INOCENCIO LEITE",
+        "cargo": "PRESIDENTE DA CÂMARA",
+        "entidade": "CÂMARA MUNICIPAL",
+        "email": [
+          "celso_sp@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99162-8106",
             "ramal": null
           },
           {
@@ -319,17 +245,39 @@
         "ativo": true
       },
       {
-        "cod_membro": "133967",
-        "nome": "ALIRIA COSTA",
-        "cargo": "Coordenadora",
-        "entidade": "CEI Cidade Encantada",
+        "cod_membro": "143449",
+        "nome": "DÉBORAH CRISTINA MOREIRA DE SÁ",
+        "cargo": "ASSISTENTE SOCIAL",
+        "entidade": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
         "email": [
-          "prof.aliriac@gmail.com",
+          "debora.his@hotmail.com",
           null
         ],
         "telefone": [
           {
-            "numero": "(48)99632-5712",
+            "numero": "(44)3436-1235",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99153-0760",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143425",
+        "nome": "DERCINO LEONILDO DE SÁ",
+        "cargo": "SECRETÁRIO DE VIAÇÃO E OBRAS",
+        "entidade": "SECRETARIA MUNICIPAL DE VIAÇÃO E OBRAS",
+        "email": [
+          "delcio_ls@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99155-0954",
             "ramal": null
           },
           {
@@ -338,96 +286,336 @@
           }
         ],
         "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143418",
+        "nome": "FERNANDO DE FREITAS DEL AGUILA",
+        "cargo": "SECRETÁRIO MUNICIPAL DE PLANEJAMENTO",
+        "entidade": "SECRETARIA MUNICIPAL DE PLANEJAMENTO",
+        "email": [
+          "gabinete@itaunadosul.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3436-1087",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143388",
+        "nome": "FILIPE AUGUSTO DE OLIVEIRA",
+        "cargo": "DIRETOR DE ESPORTE",
+        "entidade": "SECRETARIA MUNICIPAL DE ESPORTE",
+        "email": [
+          "filipe0374@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99858-9175",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142603",
+        "nome": "LUIZ ANTONIO GOMES GONçALVES",
+        "cargo": "Chefe do setor do e meio ambiente",
+        "entidade": "Prefeitura municipal",
+        "email": [
+          "luizgoncalves.73@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99184-4315",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142602",
+        "nome": "MANOEL MESSIAS GONçALVES",
+        "cargo": "Assessor de gabinete",
+        "entidade": "Prefeitura Municipal",
+        "email": [
+          "manezinhoitauna@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 99157-9116",
+            "ramal": null
+          },
+          {
+            "numero": "(44) 3436-1520",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143377",
+        "nome": "MÁRCIA SARMENTO",
+        "cargo": "SECRETÁRIA DE ASSISTÊNCIA SOCIAL",
+        "entidade": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+        "email": [
+          "emdasilvaitauna@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3436-1087",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99163-8533",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142520",
+        "nome": "MARCOS AURÉLIO FLORANTE DA SILVA",
+        "cargo": "Secretário de Agricultura e Meio Ambiente",
+        "entidade": "SECRETARIA MUNICIPAL DE AGRICULTURA E MEIO AMBIENTE",
+        "email": [
+          "sec.agricultura@itaunadosul.pr.gov.br",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99111-4436",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3436-1724",
+            "ramal": null
+          }
+        ],
+        "observador": false,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143372",
+        "nome": "MARIA BETE DA SILVA MARTINS",
+        "cargo": "SECRETÁRIA MUNICIPAL DE EDUCAÇÃO",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO E CULTURA",
+        "email": [
+          "betemartins55@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3436-1565",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99137-1463",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143413",
+        "nome": "NÁGILA HENRIQUE MOREIRA",
+        "cargo": "PROFESSORA EQUIPE TÉCNICA",
+        "entidade": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+        "email": [
+          "nagila.h@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3436-1318",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99131-9631",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143439",
+        "nome": "NOEMIA PEREIRA DOS SANTOS",
+        "cargo": "CHEFE DE SAÚDE BUCAL",
+        "entidade": "PREFEITURA MUNICIPAL",
+        "email": [
+          "NAOTEM@NAOTEM.COM",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99161-0048",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143384",
+        "nome": "PLÍNIO JOSÉ DA COSTA SALUSTIANO",
+        "cargo": "SECRETÁRIO",
+        "entidade": "SECRETARIA MUNICIPAL DE ESPORTE E LAZER",
+        "email": [
+          "pliniocosta19@gmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99132-1958",
+            "ramal": null
+          },
+          {
+            "numero": null,
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143392",
+        "nome": "SIDNEI CARRILHO PELIZER",
+        "cargo": "SECRETÁRIO DE COMÉRCIO",
+        "entidade": "SECRETARIA MUNICIPAL DE COMÉRCIO",
+        "email": [
+          "naotem@naotem.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)99149-3317",
+            "ramal": null
+          },
+          {
+            "numero": "(44)3436-1087",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "143396",
+        "nome": "SILVIO DE MAZZI DOS SANTOS",
+        "cargo": "TÉCNICO EM SEGURANÇA DO TRABALHO",
+        "entidade": "PREFEITURA MUNICIPAL",
+        "email": [
+          "silvio_mazzi@hotmail.com",
+          null
+        ],
+        "telefone": [
+          {
+            "numero": "(44)3436-1087",
+            "ramal": null
+          },
+          {
+            "numero": "(44)99128-1218",
+            "ramal": null
+          }
+        ],
+        "observador": true,
+        "ativo": true
+      },
+      {
+        "cod_membro": "142454",
+        "nome": "TADEU",
+        "cargo": "Técnico Agrícola",
+        "entidade": "Emater",
+        "email": [
+          "",
+          ""
+        ],
+        "telefone": [
+          {
+            "numero": "(44) 3436-1724",
+            "ramal": ""
+          },
+          {
+            "numero": "",
+            "ramal": ""
+          }
+        ],
+        "observador": false,
         "ativo": true
       }
-    ],    
-    
+    ],
     "reunioes": [
       {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
+        "data": "2019-09-19 14:00:00",
+        "cod_subarea": "4127304200",
+        "siape_presidente": "1548479",
+        "local": "Câmara Municipal",
         "tipo": "primeira",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	        "133039"
-        ]
-      },
-      {
-        "data": "2020-02-04 11:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "2103806",
-        "local": "Teste",
-        "tipo": "estadual",
-        "complemento": "Teste",
-        "status": "realizada",
-        "participantes": [
-          "133967"
-        ]
-      },
-      {
-        "data": "2020-02-12 14:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "768261",
-        "local": "Centro de Cultura da Câmara Municipal de Salvador",
-        "tipo": "segunda",
-        "complemento": "O encontro terá como objetivo dar maior transparência ao processo e buscar, junto a autoridades e sociedade, apoios e parcerias para viabilizar as atividades censitárias. Para mais informações, favor entrar em contato através dos seguintes números: (71) 2105-8631 / 2105-8668 / 2105-8696.",
-        "status": "realizada",
-        "participantes": [
-          "133967",
-          "191913",
-          "191962",
-          "193099",
-          "193033",
-          "134551",
-	  "133039"
-        ]
-      },
-      {
-        "data": "2020-03-02 15:00:00",
-        "cod_subarea": "2927408201",
-        "siape_presidente": "1356526",
-        "local": "Secretaria de Educação do Estado da Bahia",
-        "tipo": "extraordinaria",
         "complemento": "",
         "status": "realizada",
         "participantes": [
-          "133967",
-          "134551"
-        ]
-      },
-      {
-        "data": "2020-03-11 15:00:00",
-        "cod_subarea": "2927408213",
-        "siape_presidente": "2103806",
-        "local": "Pref. Bairro Liberdade \\ São Caetano",
-        "tipo": "local",
-        "complemento": "",
-        "status": "realizada",
-        "participantes": [
-          "191913",
-          "193099"
+          "142520",
+          "143372",
+          "143377",
+          "143384",
+          "143388",
+          "143392",
+          "143396",
+          "143399",
+          "143404",
+          "143409",
+          "143413",
+          "143418",
+          "143425",
+          "143437",
+          "143439",
+          "143441",
+          "143449"
         ]
       }
     ]
   },
   "info": {
-    "cod_mun": "3300209",
-    "nome_mun": "ARARUAMA",
-    "cod_agencia": "330070400",
-    "nome_agencia": "CABO FRIO",
-    "data": "2020-10-06 10:22:28",
+    "cod_mun": "4111308",
+    "nome_mun": "ITAÚNA DO SUL",
+    "cod_agencia": "411840200",
+    "nome_agencia": "PARANAVAÍ",
+    "data": "2020-10-26 09:25:27",
     "fonte": [
       "SIDRA/IBGE",
-      "BDO/COC/IBGE"
+      "BDO/IBGE",
+      "SERVIÇO DADOS/IBGE"
     ]
   }
 }
